@@ -1,0 +1,3 @@
+解决time_wait 过多问题  http://blog.renhao.org/2010/07/setup-linux-kernel-tcp-settings/
+ulimit - a        	http://www.2cto.com/os/201205/131562.html 
+解决FIN_WAIT1 过多问题  http://marsren.blog.51cto.com/116511/366759
