@@ -1,0 +1,3 @@
+查看系统版本:cat /etc/issue
+查看内存 free -m
+CPU:cat /proc/cpuinfo
